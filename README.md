@@ -16,7 +16,7 @@ and if you want to make it to .Exe
 pip install pyinstaller
 ```
 
-### How to use pyinstaller
+## How to use pyinstaller
 ```bash
 pyinstaller --onefile [name_code_file].py
 ```
